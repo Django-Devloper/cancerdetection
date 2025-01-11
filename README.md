@@ -11,3 +11,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 streamlit run app.py 
+
+live on : https://cancerdetection-fnerw5k2a5wtk5umlcjwzs.streamlit.app/
